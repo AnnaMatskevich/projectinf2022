@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.807,D:\Progs-2021\Carcassonne\version_cur\Carcassonne_src\Unit1.cpp=D:\Progs-2021\Carcassonne\version_cur\Carcassonne_src\Form__new_player.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.161,=D:\Progs-2021\Carcassonne\version_cur\Carcassonne_src\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.699,=D:\Progs-2021\Carcassonne\version_cur\Carcassonne_src\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.161,C:\Users\Andrey-PC\Documents\RAD Studio\Projects\Unit1.dfm=F:\Progs-2021-10\Carcassonne\Form__main.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.363,=Z:\Progs-2021\Carcassonne\Carcassonne_src\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.733,D:\Progs-2021\Carcassonne\Carcassonne_src\Unit1.dfm=D:\Progs-2021\Carcassonne\Carcassonne_src\Form__register.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.511,D:\Progs-2021\Carcassonne\version_cur\Carcassonne_src\Form__register.cpp=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.357,D:\Progs-2021\Carcassonne\version_cur\Carcassonne_src\Unit1.cpp=D:\Progs-2021\Carcassonne\version_cur\Carcassonne_src\Form__players.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.322,C:\Users\Andrey-PC\Documents\RAD Studio\Projects\Project1.cbproj=F:\Progs-2021-10\Carcassonne\Carcassonne-game.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.987,D:\Progs-2021\Carcassonne\version_cur\Carcassonne_src\Form__card_desc.cpp=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.167,D:\Progs-2021\Carcassonne\version_cur\Carcassonne_src\Form__about.dfm=D:\Progs-2021\Carcassonne\version_cur\Carcassonne_src\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.167,D:\Progs-2021\Carcassonne\version_cur\Carcassonne_src\Form__about.h=D:\Progs-2021\Carcassonne\version_cur\Carcassonne_src\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.787,=D:\Progs-2021\Carcassonne\version_cur\Carcassonne_src\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.150,D:\Progs-2021\Carcassonne\Carcassonne_src\Form__card_desc.h=D:\Progs-2021\Carcassonne\Carcassonne_src\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.150,D:\Progs-2021\Carcassonne\Carcassonne_src\Form__card_desc.dfm=D:\Progs-2021\Carcassonne\Carcassonne_src\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.120,=D:\Progs-2021\Carcassonne\Carcassonne_src\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.807,D:\Progs-2021\Carcassonne\version_cur\Carcassonne_src\Unit1.h=D:\Progs-2021\Carcassonne\version_cur\Carcassonne_src\Form__new_player.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.150,D:\Progs-2021\Carcassonne\Carcassonne_src\Form__card_desc.cpp=D:\Progs-2021\Carcassonne\Carcassonne_src\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.161,C:\Users\Andrey-PC\Documents\RAD Studio\Projects\Unit1.cpp=F:\Progs-2021-10\Carcassonne\Form__main.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.357,D:\Progs-2021\Carcassonne\version_cur\Carcassonne_src\Unit1.h=D:\Progs-2021\Carcassonne\version_cur\Carcassonne_src\Form__players.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.541,Z:\Progs-2021\Carcassonne\Carcassonne_src\Form__zastavka.h=Z:\Progs-2021\Carcassonne\Carcassonne_src\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.541,Z:\Progs-2021\Carcassonne\Carcassonne_src\Form__zastavka.cpp=Z:\Progs-2021\Carcassonne\Carcassonne_src\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.541,Z:\Progs-2021\Carcassonne\Carcassonne_src\Form__zastavka.dfm=Z:\Progs-2021\Carcassonne\Carcassonne_src\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.950,=C:\Users\Andrey-PC\Documents\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.733,D:\Progs-2021\Carcassonne\Carcassonne_src\Unit1.h=D:\Progs-2021\Carcassonne\Carcassonne_src\Form__register.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.733,D:\Progs-2021\Carcassonne\Carcassonne_src\Unit1.cpp=D:\Progs-2021\Carcassonne\Carcassonne_src\Form__register.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.923,=D:\Progs-2021\Carcassonne\Carcassonne_src\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.161,C:\Users\Andrey-PC\Documents\RAD Studio\Projects\Unit1.h=F:\Progs-2021-10\Carcassonne\Form__main.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.357,D:\Progs-2021\Carcassonne\version_cur\Carcassonne_src\Unit1.dfm=D:\Progs-2021\Carcassonne\version_cur\Carcassonne_src\Form__players.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.807,D:\Progs-2021\Carcassonne\version_cur\Carcassonne_src\Unit1.dfm=D:\Progs-2021\Carcassonne\version_cur\Carcassonne_src\Form__new_player.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.167,D:\Progs-2021\Carcassonne\version_cur\Carcassonne_src\Form__about.cpp=D:\Progs-2021\Carcassonne\version_cur\Carcassonne_src\Unit1.cpp</Transaction>
+  </Transactions>
+	<BT_BuildType>Debug</BT_BuildType>
+</BorlandProject>
